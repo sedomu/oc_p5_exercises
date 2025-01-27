@@ -22,18 +22,36 @@ Bon entraînement !
 
 # Exercice 2
 
+![exercice2](./results/2.png)
+
 # Exercice 3
+
+![exercice3](./results/3.png)
 
 # Exercice 4
 
+![exercice4](./results/4.png)
+
 # Exercice 5
+
+![exercice5](./results/5.png)
 
 # Exercice 6
 
+![exercice6](./results/6.png)
+
 # Exercice 7
+
+![exercice7](./results/7.png)
 
 # Exercice 8
 
+![exercice8](./results/8.png)
+
 # Exercice 9
 
+![exercice9](./results/9.png)
+
 # Exercice 10
+
+![exercice10](./results/10.png)

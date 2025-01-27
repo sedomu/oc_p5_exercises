@@ -42,6 +42,7 @@ nav a {
     text-decoration: none;
 }
 
+
 /* Styles du main */
 main {
     padding: 20px;
@@ -51,3 +52,18 @@ section {
     margin-bottom: 20px;
 }
 
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        /* align-items:center; my bad */
+    }
+
+    /* correct answer */
+    nav li { 
+        margin-right: 0px;
+    }
+}

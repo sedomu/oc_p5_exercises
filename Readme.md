@@ -1,57 +1,68 @@
-# Projet 5 : Testez vos compétences, les langages du web
+# OpenClassrooms – Project 5 Web Languages Assessment
 
-## Énoncé
+## 📌 Description
 
-Pour commencer le projet, lancez la commande `npm install` qui installera les dépendances du projet. 
- 
-Vous pourrez ainsi réaliser les différents exercices. 
+Source code of **Project 5 – Test your skills: Web Languages**, completed as part of the **OpenClassrooms JavaScript React Developer path**.
 
-Pour vérifier que votre exercice est correctement réalisé vous n'avez qu'à lancer la commande `npm start` puis la commande `npm run test`. 
-Vous verrez alors s'afficher l'application `Cypress`. 
-Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous voulez lancer vos tests. 
+This project is a **set of 10 interactive exercises** designed as a **technical self-assessment** to practice and validate core skills in **HTML, CSS, and JavaScript**.
 
-Si votre code est correct alors les tests seront décrits en vert. 
+Each exercise focuses on a specific aspect of web development, and all solutions were validated using **automated Cypress tests**.
 
-Bon entraînement !
+⚠️ **Educational project**: This repository was created for learning purposes during my training. It is **not intended for production use**.
 
-## Tests réussis
+---
 
-# Exercice 1
+## 🎯 Learning Objectives
 
-![exercice1](./results/1.png)
+* Write correct **HTML** syntax
+* Write correct **CSS** syntax
+* Write correct **JavaScript** syntax
 
-# Exercice 2
+---
 
-![exercice2](./results/2.png)
+## 👀 Preview
 
-# Exercice 3
+Each folder (`Exercice1` → `Exercice10`) contains one exercise solution.  
 
-![exercice3](./results/3.png)
+All exercises were validated with **Cypress tests**.
+Each solution passed the provided test suite successfully.
 
-# Exercice 4
+| Exercise | Status   |
+| -------- | -------- |
+| 01       | ✅ Passed |
+| 02       | ✅ Passed |
+| 03       | ✅ Passed |
+| 04       | ✅ Passed |
+| 05       | ✅ Passed |
+| 06       | ✅ Passed |
+| 07       | ✅ Passed |
+| 08       | ✅ Passed |
+| 09       | ✅ Passed |
+| 10       | ✅ Passed |
 
-![exercice4](./results/4.png)
+*(See `screenshots/` for test validation images.)*
 
-# Exercice 5
+---
 
-![exercice5](./results/5.png)
+## 🏗 Project structure
 
-# Exercice 6
+- Each `Exercice` folder contains:
+    - An `instructions.md` file with the exercise statement
+    - A solution implemented in HTML, CSS and JavaScript
+- `screenshots/` → Cypress test validation results
 
-![exercice6](./results/6.png)
+---
 
-# Exercice 7
+## 🛠 Tech stack
 
-![exercice7](./results/7.png)
+* HTML5
+* CSS3
+* JavaScript (Vanilla)
+* [Cypress](https://www.cypress.io/) for automated validation
 
-# Exercice 8
+---
 
-![exercice8](./results/8.png)
+## ⚠️ Disclaimer
 
-# Exercice 9
-
-![exercice9](./results/9.png)
-
-# Exercice 10
-
-![exercice10](./results/10.png)
+This is a **training project** created as part of the OpenClassrooms curriculum.
+It is not a complete application but a **set of standalone exercises** intended for **skill practice and self-assessment**.
